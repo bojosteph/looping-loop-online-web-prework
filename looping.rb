@@ -3,5 +3,5 @@ def levitation_spell
     puts "Wingardium Leviosa"
 	
 end
+'looping'
 
-levitation_spell
