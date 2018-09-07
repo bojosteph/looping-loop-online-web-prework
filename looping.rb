@@ -1,6 +1,7 @@
 def levitation_spell
-  
+  loop do
+    puts "Wingardium Leviosa"
 	
 end
 
-#call your method here
+levitation_spell
