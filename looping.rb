@@ -1,5 +1,6 @@
-def looping
-	#your code here
+def levitation_spell
+  
+	
 end
 
 #call your method here
