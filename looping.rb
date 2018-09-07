@@ -4,6 +4,6 @@ def levitation_spell
 	 end
 end
 
-'looping. levitation_spell'
+looping. levitation_spell
 
 
